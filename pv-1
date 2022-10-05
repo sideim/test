@@ -1,0 +1,188 @@
+{
+  "obec": "Besenova",
+  "type": "PV",
+  "vodovody": [
+    {
+      "nazov": "Besenova I",
+      "upravaVody": "Ã¡no",
+      "sposobTechnPostupu": "tech. proces",
+      "dezinfekcia": "Ã¡no",
+      "sposobDezinfekcie": "chlor",
+      "tvrdost": {
+        "hodnota": "100",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "vapnik": {
+        "hodnota": "14",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "horcik": {
+        "hodnota": "21",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "draslik": {
+        "hodnota": "78",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "vynimka": "vynimka na hodnoty dusika",
+      "poslednyOdber": {
+        "datum": "2022-08-21",
+        "odberneMiesto": "poÅ¡ta",
+        "kvalita": "II",
+        "zdravotneOdporucanie": "voda vhodna, zdravotne riziko nizke"
+      },
+      "historiaKvality": {
+        "datumyOdberov": [
+          "2021-03-21",
+          "2021-04-21",
+          "2021-05-21",
+          "null",
+          "null"
+        ],
+        "odbery": [
+          {
+            "ukazovatel": "vapnik",
+            "vzorka1Limit": "20",
+            "vzorka1LimitJednotka": "mmol/l",
+            "vzorka1Hodnota": "15",
+            "vzorka1HodnotaJednotka": "mmol/l",
+            "vzorka2Limit": "20",
+            "vzorka2LimitJednotka": "mmol/l",
+            "vzorka2Hodnota": "15",
+            "vzorka2HodnotaJednotka": "mmol/l",
+            "vzorka3Limit": "20",
+            "vzorka3LimitJednotka": "mmol/l",
+            "vzorka3Hodnota": "15",
+            "vzorka3HodnotaJednotka": "mmol/l",
+            "vzorka4Limit": null,
+            "vzorka4LimitJednotka": null,
+            "vzorka4Hodnota": null,
+            "vzorka4HodnotaJednotka": null,
+            "vzorka5Limit": null,
+            "vzorka5LimitJednotka": null,
+            "vzorka5Hodnota": null,
+            "vzorka5HodnotaJednotka": null
+          },
+          {
+            "ukazovatel": "horcik",
+            "vzorka1Limit": "20",
+            "vzorka1LimitJednotka": "mmol/l",
+            "vzorka1Hodnota": "15",
+            "vzorka1HodnotaJednotka": "mmol/l",
+            "vzorka2Limit": "20",
+            "vzorka2LimitJednotka": "mmol/l",
+            "vzorka2Hodnota": "15",
+            "vzorka2HodnotaJednotka": "mmol/l",
+            "vzorka3Limit": "20",
+            "vzorka3LimitJednotka": "mmol/l",
+            "vzorka3Hodnota": "15",
+            "vzorka3HodnotaJednotka": "mmol/l",
+            "vzorka4Limit": null,
+            "vzorka4LimitJednotka": null,
+            "vzorka4Hodnota": null,
+            "vzorka4HodnotaJednotka": null,
+            "vzorka5Limit": null,
+            "vzorka5LimitJednotka": null,
+            "vzorka5Hodnota": null,
+            "vzorka5HodnotaJednotka": null
+          }
+        ]
+      }
+    },
+    {
+      "nazov": "Besenova II",
+      "upravaVody": "Ã¡no",
+      "sposobTechnPostupu": "tech. proces",
+      "dezinfekcia": "Ã¡no",
+      "sposobDezinfekcie": "chlor",
+      "tvrdost": {
+        "hodnota": "100",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "vapnik": {
+        "hodnota": "14",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "horcik": {
+        "hodnota": "21",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "draslik": {
+        "hodnota": "78",
+        "jednotka": "mmol/l",
+        "datum": "2022-08-21"
+      },
+      "vynimka": "vynimka na hodnoty dusika",
+      "poslednyOdber": {
+        "datum": "2022-08-21",
+        "odberneMiesto": "poÅ¡ta",
+        "kvalita": "II",
+        "zdravotneOdporucanie": "voda vhodna, zdravotne riziko nizke"
+      },
+      "historiaKvality": {
+        "datumyOdberov": [
+          "2021-03-21",
+          "2021-04-21",
+          "2021-05-21",
+          "null",
+          "null"
+        ],
+        "odbery": [
+          {
+            "ukazovatel": "vapnik",
+            "vzorka1Limit": "20",
+            "vzorka1LimitJednotka": "mmol/l",
+            "vzorka1Hodnota": "15",
+            "vzorka1HodnotaJednotka": "mmol/l",
+            "vzorka2Limit": "20",
+            "vzorka2LimitJednotka": "mmol/l",
+            "vzorka2Hodnota": "15",
+            "vzorka2HodnotaJednotka": "mmol/l",
+            "vzorka3Limit": "20",
+            "vzorka3LimitJednotka": "mmol/l",
+            "vzorka3Hodnota": "15",
+            "vzorka3HodnotaJednotka": "mmol/l",
+            "vzorka4Limit": null,
+            "vzorka4LimitJednotka": null,
+            "vzorka4Hodnota": null,
+            "vzorka4HodnotaJednotka": null,
+            "vzorka5Limit": null,
+            "vzorka5LimitJednotka": null,
+            "vzorka5Hodnota": null,
+            "vzorka5HodnotaJednotka": null
+          },
+          {
+            "ukazovatel": "horcik",
+            "vzorka1Limit": "20",
+            "vzorka1LimitJednotka": "mmol/l",
+            "vzorka1Hodnota": "15",
+            "vzorka1HodnotaJednotka": "mmol/l",
+            "vzorka2Limit": "20",
+            "vzorka2LimitJednotka": "mmol/l",
+            "vzorka2Hodnota": "15",
+            "vzorka2HodnotaJednotka": "mmol/l",
+            "vzorka3Limit": "20",
+            "vzorka3LimitJednotka": "mmol/l",
+            "vzorka3Hodnota": "15",
+            "vzorka3HodnotaJednotka": "mmol/l",
+            "vzorka4Limit": null,
+            "vzorka4LimitJednotka": null,
+            "vzorka4Hodnota": null,
+            "vzorka4HodnotaJednotka": null,
+            "vzorka5Limit": null,
+            "vzorka5LimitJednotka": null,
+            "vzorka5Hodnota": null,
+            "vzorka5HodnotaJednotka": null
+          }
+        ]
+      }
+    }
+  ]
+}
